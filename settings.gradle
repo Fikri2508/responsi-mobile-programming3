@@ -1,0 +1,2 @@
+rootProject.name = "Reponsi_MP3"
+include ':app'
